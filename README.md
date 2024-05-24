@@ -32,8 +32,8 @@ To run this project locally, follow these steps:
 - **Move and Resize Elements:** Click and drag to move elements. Use the handles to resize them.
 - **Grid Lines:** Enable grid lines from the toolbar to help with precise alignment.
 - **Snapping:** Move objects around the canvas to see grid-based suggestions for perfect alignment.
-![Screenshot (358)](https://github.com/Ashishksaini/crello-clone/assets/73321601/473523cc-c3d2-49e1-bf92-8a111084b3dc)
-![Screenshot (357)](https://github.com/Ashishksaini/crello-clone/assets/73321601/a73b65b9-446f-43e8-b8d7-876a4a4bd13c)
+![Screenshot (358)](https://github.com/Ashishksaini/crello-clone/assets/73321601/2de7f3c8-0b28-4d4f-997c-71a07f1b9b48)
+![Screenshot (357)](https://github.com/Ashishksaini/crello-clone/assets/73321601/f5311b09-4336-49b0-b7a4-cb2dcf2ce373)
 
 ## Contributing
 Contributions are welcome! If you have any ideas, feel free to fork the repository and submit a pull request.
